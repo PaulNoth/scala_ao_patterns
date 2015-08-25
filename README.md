@@ -13,3 +13,5 @@ aspect-oriented feature - advice in symmetric way.
 This paper presents three aspect-oriented design patterns. 
 We have demonstrated that Cuckoo's Egg and Director described in Coplien's form can be implemented in Scala. 
 We have also described Worker Object Creation pattern in similar manner and created an implementation in Scala.
+
+Published in [Proceedings in Informatics and Information Technologies IIT.SRC 2015 Student Research Conference](http://www2.fiit.stuba.sk/iitsrc/iit-src2015-proceedings.pdf). Paper available [here](http://pidanic.com/wp-content/uploads/scala_aop.pdf).
